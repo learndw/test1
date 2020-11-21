@@ -12,3 +12,7 @@ Se tiene que crear una  organizacion que sea la propieatraria del repositorio or
 3. Click en organizaciones (Menu laterak izquierdo)
 4. Click en nueva organizacion 
 5. Eligir plan y guardar datos
+
+## Creacion de Fork
+1. Para crear un fork debes inicar sesion en git hub
+2. Escoger el proyecto y soo darle click en fork y listo
